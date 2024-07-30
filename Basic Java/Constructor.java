@@ -4,7 +4,7 @@ class MyClass {
     String p;
 
     MyClass(){
-        this("Hamim"); //Must be kept as first statment
+        this("Hamim"); //Must be kept as first
         this.x = 5;
         
     }
@@ -12,6 +12,7 @@ class MyClass {
     MyClass(String p){
         this.p = p;
     }
+
 }
 
 public class Constructor {
@@ -25,3 +26,5 @@ public class Constructor {
         System.out.println(MyClass2.x);
     }    
 }
+
+

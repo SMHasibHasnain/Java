@@ -15,6 +15,7 @@ public class Course {
         Course.maxCapacity = maxCapacity;
     }
 
+
     void enrollStudent(String studentName) {
         this.enrollStudent[enrolledStudents] = studentName;
         System.out.println("Student Has Been Enrolled!");

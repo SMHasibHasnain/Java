@@ -54,6 +54,5 @@ public class Book {
         DesignPattarn.returnBook();
         DesignPattarn.returnBook();
         EffectiveJava.returnBook();
-
     }
 }
