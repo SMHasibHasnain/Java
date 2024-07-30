@@ -14,7 +14,6 @@ class myclass{
         System.out.println(a);  //Static Variable From NON-Static Method - Allowed
         System.out.println(x); //NON-Static Variable From Non-Static Method - Allowed
     }
-
 }
 
 public class StaticVariable {
@@ -40,10 +39,6 @@ public class StaticVariable {
         //If I once change static variable's value, is it changed on every object? - Yes 
         System.out.println(myobject2.a); //Output 10 - Proved
         System.out.println(myclass.a); //Output 10 - Proved
-        
-        
-
-
     
     }
 }
