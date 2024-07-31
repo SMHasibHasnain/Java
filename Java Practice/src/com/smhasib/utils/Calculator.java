@@ -13,5 +13,4 @@ public class Calculator {
         
         System.out.printf("Rectancle Area: %f\nCircle Area: %f", rectangleArea, circleArea);
     }
-
 }
