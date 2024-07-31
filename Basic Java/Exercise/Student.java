@@ -10,7 +10,6 @@ public class Student {
     
     @Override
     public String toString() {
-
         StringBuilder myString = new StringBuilder();
         myString.append("Student [name = ").append(name).append("; ");
         myString.append("age = ").append(age).append(" ]");
