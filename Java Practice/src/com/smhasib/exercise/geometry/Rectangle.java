@@ -1,4 +1,4 @@
-package com.smhasib.geometry;
+package com.smhasib.exercise.geometry;
 
 public class Rectangle {
     public int length;

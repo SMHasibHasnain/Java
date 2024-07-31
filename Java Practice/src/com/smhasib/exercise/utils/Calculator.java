@@ -1,7 +1,7 @@
-package com.smhasib.utils;
+package com.smhasib.exercise.utils;
 
-import com.smhasib.geometry.Circle;
-import com.smhasib.geometry.Rectangle;
+import com.smhasib.exercise.geometry.Circle;
+import com.smhasib.exercise.geometry.Rectangle;
 
 public class Calculator {
     public static void main(String[] args) {
