@@ -19,5 +19,8 @@ public class BankAccountTestDrive {
         client2.withdraw(1000);
         System.out.println(client2.getBalance());
         client2.withdraw(600);
+
+        System.out.println(client1);
+        System.out.println(client2);
     }
 }

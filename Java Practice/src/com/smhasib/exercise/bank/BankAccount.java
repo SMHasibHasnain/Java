@@ -47,4 +47,11 @@ public class BankAccount {
             System.out.printf("You have withdraw %f taka just now! Your current balance is: %.2f taka.\n", money, balance);
         }
     }
+
+    @Override
+    public String toString() {
+        return "[accountNumber=" + accountNumber + ", accountHolderName=" + accountHolderName + ", balance="
+                + balance + "]";
+    }
+
 }
